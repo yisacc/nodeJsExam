@@ -1,0 +1,1068 @@
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"completed manager role migrated...","level":"info"}
+{"message":"completed admin role migrated...","level":"info"}
+{"message":"completed user role migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"completed admin user migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"completed admin user migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"completed admin user migrated...","level":"info"}
+{"message":"completed user role migrated...","level":"info"}
+{"message":"completed manager role migrated...","level":"info"}
+{"message":"completed admin role migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"completed admin user migrated...","level":"info"}
+{"message":"completed admin role migrated...","level":"info"}
+{"message":"completed user role migrated...","level":"info"}
+{"message":"completed manager role migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Found new permissions...","level":"info"}
+{"message":"migrate permission completed ...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"Found new role...","level":"info"}
+{"message":"completed admin role migrated...","level":"info"}
+{"message":"completed user role migrated...","level":"info"}
+{"message":"completed manager role migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"completed admin user migrated...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
+{"message":"Checking permissions migrations...","level":"info"}
+{"message":"Noting to migrate fro permission ...","level":"info"}
+{"message":"Checking role migrations...","level":"info"}
+{"message":"completed roles migrations...","level":"info"}
+{"message":"Checking users migrations...","level":"info"}
+{"message":"completed users migrations...","level":"info"}
